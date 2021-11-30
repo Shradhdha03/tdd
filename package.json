@@ -1,0 +1,14 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "tdd setup for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.1.3"
+  }
+}
