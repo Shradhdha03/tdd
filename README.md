@@ -1,4 +1,4 @@
-Step 1: Clone the Repo
+Step 1: Clone the Repo using **`git clone https://github.com/Shradhdha03/tdd.git`**
 
 Step 2: Open the project with Visual Studio Code
 
@@ -10,5 +10,5 @@ Result:
 
 Addition
     3 + 5
-      ✔ should return 8 
+        ✔ should return 8 
 1 passing 
