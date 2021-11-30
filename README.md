@@ -8,8 +8,12 @@ Step 4: Run **`npm test`**
 
 Result: 
 
-Calculator
-Addition
-✔ should return 8 when given 3 and 5 as input 
-✔ should return 0 when given 5 and -5 as input 
-2 passing 
+`Calculator`
+
+  `Addition`
+
+    ✔ should return 8 when given 3 and 5 as input
+
+    ✔ should return 0 when given 5 and -5 as input
+
+`2 passing`
