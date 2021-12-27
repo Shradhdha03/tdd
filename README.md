@@ -8,12 +8,10 @@ Step 4: Run **`npm test`**
 
 Result: 
 
-`Calculator`
+`Person Address`
 
-  `Addition`
+✔ should add address for a person
 
-    ✔ should return 8 when given 3 and 5 as input
-
-    ✔ should return 0 when given 5 and -5 as input
+✔ should give name and address of person
 
 `2 passing`
