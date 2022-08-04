@@ -4,12 +4,15 @@
   "description": "tdd setup for node",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "autotest": "mocha --watch",
+    "test-coverage": "nyc mocha"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "expect": "^27.4.2",
-    "mocha": "^9.1.3"
+    "mocha": "^9.1.3",
+    "nyc": "^15.1.0"
   }
 }
